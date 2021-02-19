@@ -19,7 +19,7 @@ const monthlyLabels=new Set();
 
 //funcion para agregar los valores introducidos por el usuario al agregar venta
 function addSale(){
-  console.log("Holaaaaaaa")
+  console.log("Holaaaa")
 }
 
 //itera cada posicion del arreglo y los manda como parametros a la funcion addYearlyTotal
